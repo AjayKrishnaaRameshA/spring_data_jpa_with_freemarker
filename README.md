@@ -15,5 +15,5 @@ Steps to be followed
 		
 9. add data.sql and schema.sql files in resources
 10. run the application you will see the list of records in UI
+11. perform all the CRUD operations and add the methods in controller
 
-11. for crud and custom queries follow the tutorial video
